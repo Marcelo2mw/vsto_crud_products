@@ -87,8 +87,8 @@ ServiceFabricBackup/
 *.userosscache
 *.sln.docstates
 
-# Temporary key files
-*_TemporaryKey.pfx
+# Certificate files (including temporary keys)
+*.pfx
 
 # Windows image file caches
 Thumbs.db
